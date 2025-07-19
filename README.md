@@ -1,3 +1,5 @@
+# Document Structure Analysis 
+
 This repository explores various machine learning and deep learning techniques for analyzing the structural components of documents. It includes implementations using state-of-the-art deep learning frameworks like Detectron2, as well as classical machine learning algorithms such as Random Forest and Support Vector Machines (SVMs), for tasks like layout analysis, element classification, and information extraction from documents.
 
 ## Table of Contents
